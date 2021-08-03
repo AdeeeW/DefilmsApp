@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">DEFILMS</string>
+    <string name="movies">Movies</string>
+    <string name="tv_show">Tv Show</string>
+    <string name="judul_film">Movie title</string>
+    <string name="status_film">Status</string>
+    <string name="bahasa_ucapan">Spoken Language</string>
+    <string name="genre_film">Movie genre</string>
+    <string name="durasi_film">Duration</string>
+    <string name="deskripsi_film">Description</string>
+    <string name="judul_tv_show">Tv Show title</string>
+    <string name="jumlah_episode_tv_show">Number of Episodes</string>
+    <string name="genre_tv_show">Genre Tv Show</string>
+    <string name="status_tv_show">Status</string>
+    <string name="jenis_tv_show">Type</string>
+    <string name="deskripsi_tv_show">Description</string>
+    <string name="pengaturan_bahasa">Language setting</string>
+    <string name="indonesia">English</string>
+    <string name="tanggal_rilis">Release Date</string>
+    <string name="tanggal_tayang">Release Date</string>
+    <string name="detail_film">Film Details</string>
+    <string name="detail_tv">TV Show Details</string>
+    <string name="link_film">https://www.themoviedb.org/movie</string>
+    <string name="text_bagi">Share this now Via</string>
+    <string name="link_tv">https://www.themoviedb.org/tv</string>
+    <string name="pengaturan">Settings</string>
+</resources>
